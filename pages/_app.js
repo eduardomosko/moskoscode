@@ -1,4 +1,3 @@
-import useMeasure from 'react-use-measure'
 import Footer from '../components/Footer'
 import Header from '../components/Header'
 import '../styles/globals.css'

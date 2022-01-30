@@ -39,8 +39,7 @@ const Header = () => {
 
                 <animated.div style={{ overflow: "hidden", height, opacity }}>
                     <animated.ul className="transition-all text-center grid" ref={bind}>
-                        <li className="m-1"><A href="/about">about</A></li>
-                        <li className="m-1"><A href="/github">github</A></li>
+                        <li className="m-1"><A href="https://github.com/eduardomosko/moskoscode">github</A></li>
                     </animated.ul>
                 </animated.div>
 
