@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  @apply text-xl;
+}
+
+.gradient-1 {
+  background: rgb(34,112,195);
+  background: -moz-linear-gradient(13deg, rgba(34,112,195,1) 0%, rgba(72,214,152,1) 41%, rgba(253,238,45,1) 82%, rgba(247,255,154,1) 100%);
+  background: -webkit-linear-gradient(13deg, rgba(34,112,195,1) 0%, rgba(72,214,152,1) 41%, rgba(253,238,45,1) 82%, rgba(247,255,154,1) 100%);
+  background: linear-gradient(13deg, rgba(34,112,195,1) 0%, rgba(72,214,152,1) 41%, rgba(253,238,45,1) 82%, rgba(247,255,154,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2270c3",endColorstr="#f7ff9a",GradientType=1); 
+}
+
+.gradient-2 {
+  background: rgb(131,58,180);
+  background: -moz-linear-gradient(13deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  background: -webkit-linear-gradient(13deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  background: linear-gradient(13deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#833ab4",endColorstr="#fcb045",GradientType=1); 
+}
+
+.gradient-3 {
+  background: rgb(130,58,180);
+  background: -moz-linear-gradient(13deg, rgba(130,58,180,1) 0%, rgba(29,99,253,1) 50%, rgba(69,252,184,1) 100%);
+  background: -webkit-linear-gradient(13deg, rgba(130,58,180,1) 0%, rgba(29,99,253,1) 50%, rgba(69,252,184,1) 100%);
+  background: linear-gradient(13deg, rgba(130,58,180,1) 0%, rgba(29,99,253,1) 50%, rgba(69,252,184,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#823ab4",endColorstr="#45fcb8",GradientType=1); 
+}
