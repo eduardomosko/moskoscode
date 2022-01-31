@@ -2,18 +2,23 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import Card from "../components/Card";
 import A from '../components/Link';
+import Head from 'next/head';
 
 const Home = ({ posts }) => (
-  <div className="grid grid-cols-1 md:grid-cols-2 2xl:grid-cols-3">
-    {
-      posts.map((post) => (
-        //<A key={post.link} href={`./${post.link}`}>
-          <Card title={post.title} description={post.description} key={post.link}/>
-        //</A>
-      ))
-    }
-  </div>
+  <>
+    <Head>
+      <title>Moskos&apos; CodeField</title>
+    </Head>
+    <div className="grid grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-4">
+      {
+        posts.map((post) => (
+          <Card title={post.title} description={post.description} key={post.link} link={post.link} />
+        ))
+      }
+    </div>
+  </>
 )
+
 
 const getAllPosts = async () => {
   const allDir = path.join(process.cwd(), 'posts');
