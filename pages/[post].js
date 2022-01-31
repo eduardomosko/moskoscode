@@ -29,7 +29,6 @@ const getPostFile = async (post) => {
 
             if (!!postFile)
                 return path.join(monthDir, postFile, 'post.md');
-
         }
     }
 
