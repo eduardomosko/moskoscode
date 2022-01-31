@@ -2,6 +2,7 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import Card from "../components/Card";
 import Head from 'next/head';
+import matter from 'gray-matter';
 
 const Home = ({ posts }) => (
   <>
@@ -33,10 +34,13 @@ const getAllPosts = async () => {
       const postsDir = await fs.readdir(monthDir);
 
       for (const p of postsDir) {
+        const content = await fs.readFile(path.join(monthDir, p, "post.md"));
+        const data = matter(content);
+
         posts.push({
           link: p,
-          title: p,
-          description: 'Lorem ipsum dolor sit amet.'
+          title: data.data.title,
+          description: data.content.slice(0, 128) + '...'
         })
       }
     }

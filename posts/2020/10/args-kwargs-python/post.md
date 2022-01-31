@@ -1,5 +1,5 @@
 ---
-title: "\*args e \*\*kwargs em python"
+title: "*args e **kwargs em python"
 ---
 
 Se você já leu uma quantidade razoável de código Python deve ter se deparado

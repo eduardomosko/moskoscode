@@ -1,5 +1,5 @@
 ---
-title: "array dinãmico em c++"
+title: "array dinâmico em c++"
 ---
 
 Um '*array*' é um **bloco de memória** no qual você pode guardar **tipos** e ***structs*** de forma consecutiva. A sintaxe para criar um deles em C é `int a[10]`, sendo que `int` pode ser **qualquer** tipo de dado e o `10` é o tamanho que o *array* deve ter.
