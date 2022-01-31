@@ -1,3 +1,7 @@
+---
+title: "decoradores em Python"
+---
+
 Decoradores são um recurso muito legal e útil do python que te permitem alterar
 o **comportamento** de um função depois de ela ter sido escrita. Na verdade,
 eles não alteram exatamente o que a função faz, mas sim o que acontece

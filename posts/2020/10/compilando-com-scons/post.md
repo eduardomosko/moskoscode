@@ -1,9 +1,6 @@
-
-<!--
-# Possíveis subtitulos:
-    - Matador do make?
-    -
--->
+---
+title: "compilando com sconstruct"
+---
 
 Recentemente, fizemos um post sobre como usar o *make* para **criar arquivos** a
 partir de outros, como, por exemplo, um executável a partir de código-fonte.

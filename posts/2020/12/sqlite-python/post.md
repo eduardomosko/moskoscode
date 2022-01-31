@@ -1,3 +1,7 @@
+---
+title: "sqlite em python"
+---
+
 Olá! Sejam bem-vindos a mais um post. Hoje vamos falar do *SQLite*, uma biblioteca de
 banco de dados que opera em um arquivo **único**, sem a necessidade de uma
 arquitetura **cliente-servidor**. Tudo acontece dentro do **seu** próprio programa!

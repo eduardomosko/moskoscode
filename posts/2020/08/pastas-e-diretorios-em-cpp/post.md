@@ -1,3 +1,6 @@
+---
+title: "pastas e diretórios em c++ (std::filesystem)"
+---
 O **C++17** veio com a adição de várias novas features, entre as mais marcantes
 está uma **nova interface** para trabalhar com pastas/diretórios, de uma forma
 **independente** do sistema operacional. Hoje vamos dar uma olhadinha rápida

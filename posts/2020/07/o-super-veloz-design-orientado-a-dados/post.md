@@ -1,3 +1,6 @@
+---
+title: "super performace: design orientado à dados"
+---
 Quase todos os programadores conhecem **programação orientada à objetos**,
 afinal é o padrão da nossa indústria. Porém são menos que conhecem o **Design
 Orientado a Dados (DOD)**, o que é surpreendente, já que ele proporciona uma

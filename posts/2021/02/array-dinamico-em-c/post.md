@@ -1,3 +1,7 @@
+---
+title: "array dinãmico em c++"
+---
+
 Um '*array*' é um **bloco de memória** no qual você pode guardar **tipos** e ***structs*** de forma consecutiva. A sintaxe para criar um deles em C é `int a[10]`, sendo que `int` pode ser **qualquer** tipo de dado e o `10` é o tamanho que o *array* deve ter.
 
 Porém, esses *arrays* tem um problema: eles têm tamanho **fixo** determinado em tempo de **compilação**, por causa disso não pode haver mais ou menos do que **10 ints** no *array*. Ainda assim existem casos em que não se sabe o **tamanho** que o *array* deve ter antes de o programa rodar. Uma forma de contornar esse problema é gerenciando quanta memória será necessária para seu *array*, chamando `malloc` e `realloc` para **alocar** e **realocar**, respectivamente, a memória dinâmica conforme preciso. 

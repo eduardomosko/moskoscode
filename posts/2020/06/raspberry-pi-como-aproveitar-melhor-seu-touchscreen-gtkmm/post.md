@@ -1,3 +1,7 @@
+---
+title: "raspberry pi: touchscreen com gtkmm"
+---
+
 O Rasperry PI é um mini-computador muito legal para programadores explorarem coisas novas. Sua tela
 oficial tem suporte a **touchscreen** e um dos melhores jeitos de aproveitá-la é com o **gtkmm** -
 uma biblioteca para criação de interfaces gráficas em C++. No entanto, é muito raro haver

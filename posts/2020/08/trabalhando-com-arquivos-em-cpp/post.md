@@ -1,3 +1,6 @@
+---
+title: "trabalhando com arquivos em c++"
+---
 Muitas vezes será necessário **salvar** algum dado do seu programa: alguma
 configuração que o usuário fez, ou salvar e exportar o trabalho dele.
 

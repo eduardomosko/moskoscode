@@ -1,5 +1,8 @@
+---
+title: "calculando a distância de um ponto à borda de um retângulo"
+---
 Várias vezes quando se está programando surge a necessidade de usar [**álgebra
-linear**](https://moskoscode.com/2020/07/23/algebra-linear-em-c/), seja para
+linear**](https://moskoscode.com/algebra-linear-em-c/), seja para
 computar edições em fotos ou pra calcular simulações.
 
 Hoje eu vou explicar como fazer uma operação que quebrou um pouco a minha

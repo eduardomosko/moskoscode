@@ -1,3 +1,7 @@
+---
+title: "5 motivos para usar o gtk nos seus programas (+2 extras)"
+---
+
 Não importa a qualidade do seu programa, nos dias de hoje, se o único jeito de
 usá-lo for por uma linha de comando quase **ninguém** vai se interessar
 (exceto, talvez, meus parceiros de linux ou BSD).  Por isso, se você quiser

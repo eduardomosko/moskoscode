@@ -1,3 +1,7 @@
+---
+title: "bibliotecas de header único (para C/C++)"
+---
+
 Existem diversas bibliotecas famosas pra **C/C++** como o **OpenCV** e o
 **[GTK+](https://moskoscode.com/2020/07/02/5-motivos-para-usar-o-gtk-nos-seus-programas-e-extras/)**,
 elas geralmente são excelentes, bem otimizadas, super completas e...

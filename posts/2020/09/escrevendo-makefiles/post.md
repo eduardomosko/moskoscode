@@ -1,3 +1,6 @@
+---
+title: "escrevendo makefiles"
+---
 Make é um programa que te permite fazer uma coisa simples, mas muito, muito
 poderosa: **criar arquivos a partir de outros**.
 

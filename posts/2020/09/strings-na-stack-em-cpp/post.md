@@ -1,3 +1,6 @@
+---
+title: "strings na stack em c++"
+---
 É comum querermos exibir **mensagens de erro** com formatação, por exemplo,
 variáveis numéricas inseridas no texto. Mas em *C++*, realizar esse processo
 com `std::string`s é **caro**, já que demanda **alocações da memória dinâmica**

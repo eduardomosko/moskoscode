@@ -1,3 +1,6 @@
+---
+title: "constexpr: executando funções durante a compilação"
+---
 Muitas vezes enquanto estamos programando, usamos **funções simples** em
 **valores fixos** pra deixar mais claro o que queremos dizer, ao mesmo tempo
 que aceleraramos o nosso processo de escrita.

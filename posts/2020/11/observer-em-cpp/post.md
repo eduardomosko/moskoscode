@@ -1,10 +1,7 @@
-<!--
-Titulo: Observador em C++ - Design Patterns
+---
+title: "observador em c++ (design pattern)"
+---
 
-Sugestão de Subtitulo:
-  * Pare de perguntar tanto
-  * Se inscreva na newsletter para virar um Observador do nosso blog
--->
 
 Olá! Seja bem-vindo ao primeiro post do blog sobre ***design patterns***. Estes que são,
 basicamente, jeitos de **organizar** seu programa (*designs*) e que, por serem tão usados, acabaram virando um **padrão** (*pattern*) que se aplica quando é preciso **resolver**

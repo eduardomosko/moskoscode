@@ -1,29 +1,7 @@
-<!---
+---
+title: "iniciando no git"
+---
 
-# A ser abordado
- - [X] O que é e por que usar o git
- - [X] Como instalar
- - [X] Criando um repositório
- - [X] Commitando arquivos
- - [X] Editando arquivos
- - [X] Ramificando
- - [X] Mesclando alterações
-
-# Ideias de Tĩtulo
-### Título
- - Git para iniciantes
- - Introdução ao Git
- - Mas o que carvalhos é Git?
- - Gerenciando versões com o Git
-
-Talvez desse para colocar um título com um apelo mais generalizado também, só não sei como isso seria.
-
-### Subtĩtulo
- - Uma breve introdução à gerenciamento de versão
- - Imagine viajar através do tempo e para outras dimensões - com Git isso é *quase* possível
- - Gerencie seus projetos, poemas e receitas
-
--->
 # O que é e por que usar o git
 
 Muitas áreas de trabalho tem um ciclo de produção que gira em torno de novos

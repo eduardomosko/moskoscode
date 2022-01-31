@@ -1,3 +1,6 @@
+---
+title: "microbenchmarks em c++"
+---
 O que é mais rápido `bool a = c > b ? b : 0` ou `bool a = b*(c > b)`?
 
 *Eu não sei...*

@@ -1,7 +1,6 @@
-# Programação sem IF e ELSE?
-
-<!-- subtítulo: Não tente isso na produção -->
-<!-- subtítulo: Tente com a supervisão de um adulto -->
+---
+title: "programação sem if ou else?"
+---
 
 Já pensou escrever um programa **inteiro** sem `if`s ou `else`s ? Provavelmente não, mas isso não significa que não podemos fazer lógica sem eles, e às vezes bem mais **rápido**.
 

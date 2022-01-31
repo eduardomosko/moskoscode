@@ -1,3 +1,7 @@
+---
+title: "álgebra linear em C++"
+---
+
 Frequentemente sinto a necessidade de fazer **cálculos com vetores** enquanto
 programo em **C++**, mas para a maior parte dos projetos eu não quero criar
 minha própria implementação *fajuta* de uma classe de vetores, nem usar uma
@@ -9,7 +13,7 @@ Pra minha satisfação, recentemente descobri a biblioteca
 problemas.
 
 Ela é uma [biblioteca de header
-único](https://moskoscode.com/2020/07/22/bibliotecas-de-header-unico/) com
+único](/bibliotecas-de-header-unico) com
 aproximadamente 600 linhas e mesmo assim contém implementações de **vetores** e
 **matrizes** bem completas. Além disso, ela é baseada quase 100% em
 **templates** e **constexpr**, o que garante que as únicas funções que vão

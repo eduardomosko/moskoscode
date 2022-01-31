@@ -1,3 +1,6 @@
+---
+title: "como usar git hooks"
+---
 Que o **Git** é excelente todo mundo já sabe, mas hoje eu descobri uma
 utilidade menos conhecida (não menos incrível) dele - Os **hooks**.
 

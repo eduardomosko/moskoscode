@@ -1,3 +1,7 @@
+---
+title: "como fazer pong com pygame (jogo em python pt. 2)"
+---
+
 Semana passada, aqui no blog, ensinamos a fazer um [jogo de Pong em python
 usando pygame](https://moskoscode.com/2020/07/09/como-criar-um-jogo-em-python/
 "Como criar um jogo em Python"). Mas hoje, quero fazer algo diferente partindo

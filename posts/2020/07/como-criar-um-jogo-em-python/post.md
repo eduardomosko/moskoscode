@@ -1,3 +1,7 @@
+---
+title: "como criar um jogo em python"
+---
+
 **Python** é uma ótima linguagem para iniciantes por causa da sua sintaxe
 simples, mas também é excelente para programadores avançados porque tem um
 leque muito grande de possibilidades (desde uma rede social até aplicações de

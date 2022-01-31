@@ -1,3 +1,6 @@
+---
+title: "gerenciando recursos em c++ (RAII <3)"
+---
 Conforme seu código se torna mais **avançado**, você começa a usar coisas mais
 **complexas**, que muitas vezes precisam de um **cuidado próprio**. Por
 exemplo, um arquivo: É necessário abri-lo e fechá-lo apropriadamente, se você
@@ -10,7 +13,7 @@ E todo esse tipo de gerenciamento de abrir e fechar, criar e deletar,
 inicializar e finalizar... *é muito chato* - e muito fácil de ser
 **esquecido**. Mas, felizmente, há uma solução **incrível** para isso no
 **C++**: o conceito de **RAII**, que é, inclusive, um dos maiores motivos pelos
-quais [eu amo essa linguagem!](troquepythonporc++)
+quais [eu amo essa linguagem!](troque-python-por-cpp)
 
 Apesar da sigla estranha, a **RAII** é muito **simples** de se implementar e
 ainda mais de se usar. Ela é um acrônimo para *Resource Aquisition Is

@@ -1,4 +1,6 @@
-# Templates em C++
+---
+title: "templates em c++"
+---
 
 *Templates* são ferramentas muito poderosas que nos permitem realizar **programação genérica**, ou seja, independente de **tipos**. Isso permite a diminuição da **repetição de código**, que leva à uma base de codificação mais limpa e menos propensa a desenvolver bugs. Além disso, já que o sistema de *templates* é Turing completo, também permite a **criação** de códigos muito avançados que rodam durante a **compilação**. Por isso o uso de *templates*, muitas vezes, também resulta em programas **muito mais rápidos**.
 

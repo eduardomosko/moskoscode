@@ -1,3 +1,6 @@
+---
+title: "python: a melhor linguagem para iniciantes"
+---
 Nas faculdades é normal que comecem a ensinar programação com **C**, mas isso é
 uma má ideia. **Python** é uma linguagem **infinitamente melhor** para esse
 propósito, já que sua sintaxe simples, que lembra o inglês ou pseudocódigo,

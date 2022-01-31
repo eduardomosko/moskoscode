@@ -1,3 +1,6 @@
+---
+title: "usando um dataset própio no libtorch"
+---
 Há algumas semanas aprendemos a [criar uma rede neural com
 LibTorch](https://moskoscode.com/deep-learning-em-cpp/)  e treinar ela no
 MNIST. Isso é bem legal, mas em quantos casos reais vamos precisar de uma rede

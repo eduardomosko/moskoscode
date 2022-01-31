@@ -1,21 +1,6 @@
-<!--
-
-# À abordar
- - [X] Problemas single-thread
- - [X] O que é multi-threading
- - [X] Como criar threads
- - [X] GIL
- - [X] Sincronização
-
-# Sugestões
-### Título
-  - MultiThreading em Python
-
-### SubTítulo
-  - Se prepare para os piores problemas da sua vida
-  - Algumas boas (outras nem tanto) práticas para código concorrente
-
--->
+---
+title: "multithreading em python"
+---
 
 Você já tentou processar **várias** imagens com o Python? Se sim, provavelmente
 percebeu que um dos maiores problemas é a demora do **carregamento** delas no

@@ -1,3 +1,7 @@
+---
+title: "usando a webcam com opencv em c++"
+---
+
 Olá e seja bem-vindo a mais um post! 
 
 Hoje vamos aprender como criar um **aplicativo de webcam** (bem simples) com *OpenCV*, que é a mais completa **biblioteca livre** de Visão Máquina do momento.

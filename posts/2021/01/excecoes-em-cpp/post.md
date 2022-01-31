@@ -1,4 +1,6 @@
-# Exceções em C++
+---
+title: "exceções em c++"
+---
 
 Em programação, temos que entender que às vezes nem tudo é possível. Por exemplo, dividir 10 por 0 é impossível, ou seja, isso é uma **exceção** ao funcionamento da conta de divisão. Por isso, se você tivesse programado uma função `dividir(a, b)`, os casos em que `b` são zero seriam os **exemplos perfeitos** de quando levantar uma exceção.
 

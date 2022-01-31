@@ -1,18 +1,6 @@
-<!--
-
-# Para escrever
-  - [X] Funções com argumentos variáveis
-  - [X] Encaminhamento de argumentos
-
-# Ideias de títulos
-  - O que são os *args e **kwargs em python?
-  - O que fazem os asteriscos em python?
-
-# Ideias de subtítulos
-  - Argumentos variáveis!
-  - A beleza e condenação das linguagens dinâmicas
-
--->
+---
+title: "\*args e \*\*kwargs em python"
+---
 
 Se você já leu uma quantidade razoável de código Python deve ter se deparado
 com algo como `def processar(*args, **kwargs)` e ficou em dúvida sobre o que

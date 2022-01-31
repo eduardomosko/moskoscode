@@ -1,3 +1,6 @@
+---
+title: "testes automatizados em python"
+---
 Quantas vezes você já não ficou horas trabalhando em alguma coisa no seu
 projeto só pra quando ela **finalmente** funcionar, algo que parece
 completamente não-relacionado quebrar por causa da mudança?

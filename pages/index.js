@@ -25,7 +25,6 @@ const getAllPosts = async () => {
   const posts = [];
 
   for (const y of years) {
-    console.log(y);
     const yearDir = path.join(allDir, y);
     const months = await fs.readdir(yearDir);
 

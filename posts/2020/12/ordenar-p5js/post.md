@@ -1,10 +1,7 @@
+---
+title: "algoritimos de ordenação (com p5.js)"
+---
 
-<!--
- Título:
-  - Visualizando Bubble e Merge Sort em p5.js
- Sugestões de Subtítulos:
-  - Computador com TOC vs Código de Barras
--->
 
 Em 98.76777% dos programas de computador vai ser necessário ordenar alguma
 lista (estatística inventada). Por essa razão, muito tempo foi investido tentando

@@ -1,3 +1,6 @@
+---
+title: "json em c++"
+---
 Olá! Seja bem-vindo a mais um post. Hoje vamos falar sobre **dados** e como
 **armazená-los** ou **comunicá-los** efetivamente. Mais especificamente, o tópico é *JSON* e, ainda mais especificamente, sobre como trabalhar com ele na linguagem de
 programação *C++*.

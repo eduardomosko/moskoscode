@@ -1,4 +1,6 @@
-# Uma brevíssima introdução/referência para Lua
+---
+title: "uma brevíssima introdução/referência para Lua"
+---
 
 **Lua** é uma linguagem de programação que comecei a usar na semana passada. Ela é muito simples e me lembra Python, só que muito **menor**. O post de hoje é em parte uma introdução à linguagem e em parte uma pequena referência de sintaxe para aqueles que, assim como eu, estão começando a aprender sobre ela.
 

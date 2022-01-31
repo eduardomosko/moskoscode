@@ -1,3 +1,6 @@
+---
+title: "deep learning em c++ (com pytorch)"
+---
 Quando se trata de **deep learning**, python é, de longe, a linguagem mais
 usada. Tanto por pesquisadores quanto na produção, o que é curioso, já que esse
 é um campo que requer grande capacidade computacional e python não é uma

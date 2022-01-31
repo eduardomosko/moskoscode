@@ -1,3 +1,6 @@
+---
+title: "hashtable em c"
+---
 Uma HashTable é uma estrutura de dados que permite **associar chaves a
 valores**.  Por exemplo: ao invés de acessar os items através das **posições**
 nas quais eles foram guardados, você pode **dar nomes** a eles! Hoje vamos

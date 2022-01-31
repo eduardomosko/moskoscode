@@ -1,3 +1,6 @@
+---
+title: "multithreading em c++"
+---
 Já abordamos *multithreading* aqui no blog, mas em **Python**. Um dos grandes
 empecilhos que vimos lá era a *GIL* (Trava Global do Interpretador), que impede
 que mais do que um *thread* interprete código Python a **qualquer** momento.

@@ -1,3 +1,6 @@
+---
+title: "troque python por c++!"
+---
 Primeiramente: **eu amo python!**
 
 Foi a primeira linguagem de programação que eu grokei de verdade. Ela tem a
