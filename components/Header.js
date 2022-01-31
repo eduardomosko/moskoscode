@@ -29,7 +29,7 @@ const Header = () => {
             <div className="content-center">
                 <div className="flex flex-row">
                     <div id="title">
-                        <A href="/"><h1 className="text-gray-800 text-2xl">Moskos' <span className="text-cyan-900">CodeField</span></h1></A>
+                        <A href="/"><h1 className="text-gray-800 text-2xl">Moskos&apos; <span className="text-cyan-900">CodeField</span></h1></A>
                     </div>
                     <div className="flex-grow"></div>
                     <div id="menu">
