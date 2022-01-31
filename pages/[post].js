@@ -1,9 +1,10 @@
 import { promises as fs } from 'fs';
 import path from 'path';
+import { remark } from 'remark';
+import remarkHtml from 'remark-html';
 
 const Post = ({ text }) => (
-    <div>
-        {text}
+    <div dangerouslySetInnerHTML={{ __html: text, }}>
     </div>
 );
 
@@ -44,6 +45,8 @@ const getPostInfo = async (post) => {
         found = true;
         
         text = await fs.readFile(postFile, {encoding: 'utf-8'});
+        text = await remark().use(remarkHtml).process(text);
+        text = text.toString();
     }
 
     return {

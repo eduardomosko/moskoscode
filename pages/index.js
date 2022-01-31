@@ -1,7 +1,6 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 import Card from "../components/Card";
-import A from '../components/Link';
 import Head from 'next/head';
 
 const Home = ({ posts }) => (
